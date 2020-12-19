@@ -1,0 +1,125 @@
+SEM -03
+
+testePalavras1.txt myvec
+
+real    0m0,003s
+user    0m0,003s
+sys     0m0,000s
+
+testePalavras1.txt myset
+
+real    0m0,003s
+user    0m0,000s
+sys     0m0,003s
+
+testePalavras2.txt myvec
+
+real    0m0,004s
+user    0m0,000s
+sys     0m0,004s
+
+testePalavras2.txt myset
+
+real    0m0,003s
+user    0m0,000s
+sys     0m0,003s
+
+testePalavras3_50000.txt myvec
+
+real    1m57,417s
+user    1m56,905s
+sys     0m0,245s
+
+testePalavras3_50000.txt myset
+
+real    0m0,136s
+user    0m0,127s
+sys     0m0,004s
+
+testePalavras3_200000.txt myvec
+
+real    7m47,871s
+user    7m47,496s
+sys     0m0,113s
+
+testePalavras3_200000.txt myset
+
+real    0m0,481s
+user    0m0,478s
+sys     0m0,000s
+
+testePalavras4_10000.txt myvec
+
+real    0m5,263s
+user    0m5,243s
+sys     0m0,000s
+
+testePalavras4_10000.txt myset
+
+real    0m4,485s
+user    0m4,452s
+sys     0m0,024s
+
+----------------------------------
+
+COM -O3
+
+testePalavras1.txt myvec
+
+real    0m0,003s
+user    0m0,003s
+sys     0m0,000s
+
+testePalavras1.txt myset
+
+real    0m0,003s
+user    0m0,003s
+sys     0m0,000s
+
+testePalavras2.txt myvec
+
+real    0m0,003s
+user    0m0,000s
+sys     0m0,003s
+
+testePalavras2.txt myset
+
+real    0m0,003s
+user    0m0,003s
+sys     0m0,000s
+
+testePalavras3_50000.txt myvec
+
+real    0m20,019s
+user    0m19,912s
+sys     0m0,040s
+
+testePalavras3_50000.txt myset
+
+real    0m0,096s
+user    0m0,075s
+sys     0m0,015s
+
+testePalavras3_200000.txt myvec
+
+real    1m19,246s
+user    1m19,121s
+sys     0m0,032s
+
+testePalavras3_200000.txt myset
+
+real    0m0,273s
+user    0m0,260s
+sys     0m0,008s
+
+testePalavras4_10000.txt myvec
+
+real    0m0,886s
+user    0m0,857s
+sys     0m0,013s
+
+testePalavras4_10000.txt myset
+
+real    0m0,938s
+user    0m0,915s
+sys     0m0,016s
